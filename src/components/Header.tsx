@@ -117,7 +117,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white shadow-md">
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <Link to="/" className="text-2xl font-bold">ShopHub</Link>
+          <Link to="/" className="text-2xl font-bold">Brilmarsriy Crystals</Link>
           
           <form onSubmit={handleSearch} className="flex-1 max-w-xl mx-8">
             <div className="relative">

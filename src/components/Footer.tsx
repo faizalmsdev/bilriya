@@ -12,9 +12,9 @@ export default function Footer() {
               <ChevronDown className="w-5 h-5" />
             </summary>
             <div className="mt-4 text-gray-600">
-              <p>Email: support@shophub.com</p>
-              <p>Phone: 1-800-SHOP-HUB</p>
-              <p>Hours: Monday - Friday, 9AM - 6PM EST</p>
+              <p>Email: faial2002530@gmail.com.com</p>
+              <p>Phone: 8438859351</p>
+              <p>Hours: Monday - Friday, 9AM - 6PM </p>
             </div>
           </details>
 
@@ -45,7 +45,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 text-center text-gray-600">
-          <p>&copy; 2024 ShopHub. All rights reserved.</p>
+          <p>&copy; 2024 Brilmarsriy Crystals. All rights reserved.</p>
         </div>
       </div>
     </footer>
